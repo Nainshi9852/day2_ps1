@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\bin\Debug\Day2_PS1.exe.config
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\bin\Debug\Day2_PS1.exe
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\bin\Debug\Day2_PS1.pdb
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\obj\Debug\Day2_PS1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\obj\Debug\Day2_PS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\obj\Debug\Day2_PS1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\obj\Debug\Day2_PS1.exe
+C:\Users\HP\Desktop\Indeed\Day-2\Day2_PS1\Day2_PS1\obj\Debug\Day2_PS1.pdb
